@@ -1,0 +1,15 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "same test cjs app",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zvi Grinberg",
+  "license": "ISC",
+  "dependencies": {
+    "@RHEcosystemAppEng/exhort-javascript-api": "^0.0.2-ea.36"
+  }
+}
